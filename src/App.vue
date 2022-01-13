@@ -1,5 +1,7 @@
 <template>
-  <Generator  />
+  <div class="h-screen w-screen dark:bg-midnight">
+    <Generator  />
+  </div>
 </template>
 
 <script setup>
