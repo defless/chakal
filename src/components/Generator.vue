@@ -1,6 +1,6 @@
 <template>
-  <div class="h-screen text-center relative flex">
-    <div class="aboslute pt-10 md:m-auto md:pt-0">
+  <div class="h-screen text-center relative flex items-center justify-center">
+    <div class="mb-16">
       <button @click="generate" class="shadow p-5 rounded bg-indigo-500 text-white">Dis les termes 🥶</button>
       <div class="mt-10 mx-10 md:mx-32 dark:text-white">
         {{ this.generatedText }}
