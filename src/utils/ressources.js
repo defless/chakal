@@ -24,6 +24,9 @@ export const sentences = [
   'masterclass',
   'Chakal va dit pas des vérités comme ça',
   'il a posé le décors',
+  't\'as la boca j’ai la Boga',
+  'Parler français au hanoute = grossière erreur',
 ];
 
-export const emojis = [ '🤣', '🔥', '🏴‍☠️', '🤷‍♂️', '⚔', '🤙', '📈', '💀', '🥶'];
+export const emojis = [ '🤣', '🔥', '🏴‍☠️', '🤷‍♂️', '⚔', '🤙', '📈', '💀', '🥶', '🔞',
+  '👹'];
