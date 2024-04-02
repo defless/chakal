@@ -2,6 +2,7 @@ export const customs = [
   q => `belle gueule ${q}`,
   q => `sois clément ${q}`,
   q => `sheeeeesh il a dit les termes ${q}`,
+  q => `Yiiiiiiiiii ${q}`,
 ];
 
 export const qualifiers = [
@@ -26,6 +27,10 @@ export const sentences = [
   'il a posé le décors',
   't\'as la boca j’ai la Boga',
   'Parler français au hanoute = grossière erreur',
+  'vreuumant le 9 mois d’autrui ne sait pas respecter les règles',
+  'ratpi on quitte pas le navire',
+  'deeeh la fimbi elle est vénère tah les fous là',
+  'j’ai répondu dans le cular',
 ];
 
 export const emojis = [ '🤣', '🔥', '🏴‍☠️', '🤷‍♂️', '⚔', '🤙', '📈', '💀', '🥶', '🔞',
