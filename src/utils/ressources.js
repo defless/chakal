@@ -31,6 +31,8 @@ export const sentences = [
   'ratpi on quitte pas le navire',
   'deeeh la fimbi elle est vénère tah les fous là',
   'j’ai répondu dans le cular',
+  'tu sélectionnes, je SELECTO',
+  'je me mords la langue quand je m’énerve',
 ];
 
 export const emojis = [ '🤣', '🔥', '🏴‍☠️', '🤷‍♂️', '⚔', '🤙', '📈', '💀', '🥶', '🔞',
